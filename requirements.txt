@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+google-generativeai
+gradio
+seaborn
+python-dotenv
+langchain_google_genai
+langchain_community
